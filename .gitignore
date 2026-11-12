@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secretos: nunca se suben
+.env
+*.env
+*token*
+*secret*
+*.pem
+
+# Sistema
+.DS_Store
+Thumbs.db
